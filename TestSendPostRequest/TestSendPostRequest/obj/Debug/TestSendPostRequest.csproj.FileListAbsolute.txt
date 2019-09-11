@@ -1,0 +1,10 @@
+C:\Users\Tischo\Desktop\test\TestSendPostRequest\TestSendPostRequest\bin\Debug\TestSendPostRequest.exe.config
+C:\Users\Tischo\Desktop\test\TestSendPostRequest\TestSendPostRequest\bin\Debug\TestSendPostRequest.exe
+C:\Users\Tischo\Desktop\test\TestSendPostRequest\TestSendPostRequest\bin\Debug\TestSendPostRequest.pdb
+C:\Users\Tischo\Desktop\test\TestSendPostRequest\TestSendPostRequest\obj\Debug\TestSendPostRequest.csprojAssemblyReference.cache
+C:\Users\Tischo\Desktop\test\TestSendPostRequest\TestSendPostRequest\obj\Debug\TestSendPostRequest.Properties.Resources.resources
+C:\Users\Tischo\Desktop\test\TestSendPostRequest\TestSendPostRequest\obj\Debug\TestSendPostRequest.csproj.GenerateResource.cache
+C:\Users\Tischo\Desktop\test\TestSendPostRequest\TestSendPostRequest\obj\Debug\TestSendPostRequest.csproj.CoreCompileInputs.cache
+C:\Users\Tischo\Desktop\test\TestSendPostRequest\TestSendPostRequest\obj\Debug\TestSendPostRequest.exe
+C:\Users\Tischo\Desktop\test\TestSendPostRequest\TestSendPostRequest\obj\Debug\TestSendPostRequest.pdb
+C:\Users\Tischo\Desktop\test\TestSendPostRequest\TestSendPostRequest\obj\Debug\TestSendPostRequest.Form1.resources
